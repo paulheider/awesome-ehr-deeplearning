@@ -22,6 +22,8 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 
 ### Survey
 
+- [[ref](https://academic.oup.com/jamia/article/25/10/1419/5035024)] - **Opportunities and challenges in developing deep learning models using electronic health records data: a systematic review**, C. Xiao et al. 2018.
+
 - [[pdf](https://arxiv.org/pdf/1706.03446.pdf)] - **Deep EHR: A survey of Recent Advances on Deep Learning Techniques for Electronic Health Record(EHR) Analysis**, B. Shickel et al. 2018.
 
 - [[pdf](https://arxiv.org/pdf/1806.00388.pdf)] - **Opportunities in Machine Learning for Healthcare**, M. Ghassemi et al. 2018.
